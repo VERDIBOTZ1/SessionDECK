@@ -1,7 +1,7 @@
 {
-  "name": "SIEGRIN",
+  "name": "VERDIBOT",
   "version": "1.0.0",
-  "description": "SIEGRIN",
+  "description": "VERDI",
   "main": "node main",
   "directories": {
     "lib": "lib"
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "SIEGRIN",
+  "author": "VERDI",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.2",
@@ -78,10 +78,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/siegrin"
+    "url": "git+https://github.com/VERDIBOTZ1"
   },
   "bugs": {
-    "url": "https://github.com/siegrin"
+    "url": "https://github.com/VERDIBOTZ1"
   },
-  "homepage": "https://github.com/siegrin"
+  "homepage": "https://github.com/VERDIBOTZ1"
 }
